@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dfd00a7-8e21-4c68-9ac2-f2d55fb1a7e7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/microservices/namingserver/NamingServerApplication.class" beforeDir="false" />
-    </list>
+    <list default="true" id="3dfd00a7-8e21-4c68-9ac2-f2d55fb1a7e7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688825512170</updated>
       <workItem from="1688825514124" duration="2218000" />
-      <workItem from="1688908495569" duration="626000" />
+      <workItem from="1688908495569" duration="939000" />
     </task>
     <servers />
   </component>
